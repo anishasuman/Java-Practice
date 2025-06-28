@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public SortedArray{
+public class Main{
 public static void main(String[] args){
 int[] marks = new int [3];
 marks[0] = 97;
