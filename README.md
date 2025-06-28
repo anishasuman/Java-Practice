@@ -3,7 +3,7 @@
 Welcome to my Java Practice repository!
 
 ## 📌 Topics Covered
-1.Arrays(Sorted)
+1.Arrays
 2.Casting
 
 ## 📁 Files
