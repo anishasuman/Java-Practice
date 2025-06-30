@@ -15,7 +15,7 @@ Welcome to my Java Practice repository!
 - `LogicalOperator.java` - Even or odd check using input
 - `ConditionalOperator.java` - Age-based ticket pricing
 - `Switch Operator` - Checking weekdays,Performing basic arithmetic op (+, -, *, /) ,Vowel and consonant checker using switch & Char class
--`For Loop` - Printing star (*) patterns
+- `For Loop` - Printing star (*) patterns
 
 ## ✍️ Author
 Anisha Kumari
