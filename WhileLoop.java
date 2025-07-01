@@ -1,4 +1,4 @@
-//public class Main {
+//public class WhileLoop {
 //1.Pattern Printing
 //    public static void main(String[] args) {
 //        int i = 1;
@@ -14,7 +14,7 @@
 //    }
 //}
 //2.Inverted Triangle
-public class Main {
+public class WhileLoop {
     public static void main(String[] args) {
         int i = 5;
         while (i >= 1) {
