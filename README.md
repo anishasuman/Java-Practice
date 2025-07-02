@@ -16,6 +16,7 @@ Welcome to my Java Practice repository!
 - `ConditionalOperator.java` - Age-based ticket pricing
 - `Switch Operator` - Checking weekdays,Performing basic arithmetic op (+, -, *, /) ,Vowel and consonant checker using switch & Char class
 - `For Loop` - Printing star (*) patterns
+- `While Loop` - pattern printing using while loops
 
 ## ✍️ Author
 Anisha Kumari
