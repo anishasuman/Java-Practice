@@ -7,7 +7,7 @@ Welcome to my Java Practice repository!
 2.Logical Operator
 3.Conditional Operator
 4.Switch Operator
-5.Loops(for)
+5.Loops(for,While)
 
 
 ## 📁 Files
