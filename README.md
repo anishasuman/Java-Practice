@@ -7,7 +7,7 @@ Welcome to my Java Practice repository!
 2.Logical Operator
 3.Conditional Operator
 4.Switch Operator
-5.Loops(for)
+5.Loops(for,While)
 
 
 ## 📁 Files
@@ -16,6 +16,7 @@ Welcome to my Java Practice repository!
 - `ConditionalOperator.java` - Age-based ticket pricing
 - `Switch Operator` - Checking weekdays,Performing basic arithmetic op (+, -, *, /) ,Vowel and consonant checker using switch & Char class
 - `For Loop` - Printing star (*) patterns
+- `While Loop` - pattern printing using while loops
 
 ## ✍️ Author
 Anisha Kumari
