@@ -22,11 +22,11 @@ Welcome to my Java Practice repository!
 - `Switch Operator` - Checking weekdays,Performing basic arithmetic op (+, -, *, /) ,Vowel and consonant checker using switch & Char class
 - `For Loop` - Printing star (*) patterns
 - `While Loop` - pattern printing using while loops
-- `Break&Continue` -  Used in loop to skip and exit specific iterations
-- `Constructor` -
-- `Exception Handling` - Used Try&Catch
-- `Object` -
-- `Abstraction`- Showing abstract class usage and method overriding.
+- `Break&Continue` - Used in loop to skip and exit specific iterations
+- `Constructor` - Showing copy constructor usage
+- `Exception Handling` - Showing exception handling with try-catch
+- `Object` - Showing object creation & non-parameterized constructor
+- `Abstraction`- Showing abstract class usage and method overriding
 
 ## ✍️ Author
 Anisha Kumari
