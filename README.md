@@ -9,6 +9,10 @@ Welcome to my Java Practice repository!
 4.Switch Operator
 5.Loops(for,While)
 6.Break&Continue
+7.Constructor
+8.Exception Handling
+9.Object
+10.Abstraction
 
 
 ## 📁 Files
@@ -19,6 +23,10 @@ Welcome to my Java Practice repository!
 - `For Loop` - Printing star (*) patterns
 - `While Loop` - pattern printing using while loops
 - `Break&Continue` -  Used in loop to skip and exit specific iterations
+- `Constructor` -
+- `Exception Handling` - Used Try&Catch
+- `Object` -
+- `Abstraction`- Showing abstract class usage and method overriding.
 
 ## ✍️ Author
 Anisha Kumari
