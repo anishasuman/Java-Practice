@@ -13,6 +13,7 @@ Welcome to my Java Practice repository!
 8.Exception Handling
 9.Object
 10.Abstraction
+11.Interface
 
 
 ## 📁 Files
@@ -27,6 +28,7 @@ Welcome to my Java Practice repository!
 - `Exception Handling` - Showing exception handling with try-catch
 - `Object` - Showing object creation & non-parameterized constructor
 - `Abstraction`- Showing abstract class usage and method overriding
+- `Interface`- Demonstrates interface implementation
 
 ## ✍️ Author
 Anisha Kumari
